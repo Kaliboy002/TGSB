@@ -18,7 +18,7 @@ from aiogram.dispatcher.dispatcher import Dispatcher
 load_dotenv()
 
 home_dir = os.environ['HOME']
-TOKEN = os.getenv("TGSB_TOKEN")
+TOKEN = os.getenv("7964758764:AAGuYr8voir-lrOBUim_mj1w2KfY1-7rsgI")
 
 data_file = os.path.join("data", "data.json")
 log_file = os.path.join(home_dir, "TGSB_data", "TGSB.log")
